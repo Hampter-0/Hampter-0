@@ -4,7 +4,7 @@
 
 ![Followers](https://img.shields.io/github/followers/hampter-0?style=flat)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hampter-0&show_icons=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=hampter-0&show_icons=true)](https://github-readme-stats.vercel.app/api?username=hampter-0&show_icons=true&count_private=true)
 
 [![wakatime](https://wakatime.com/badge/user/764696ad-26a8-42d6-b728-fbbcf8aa1528.svg)](https://wakatime.com/@764696ad-26a8-42d6-b728-fbbcf8aa1528)
 
