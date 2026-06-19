@@ -8,4 +8,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/764696ad-26a8-42d6-b728-fbbcf8aa1528.svg)](https://wakatime.com/@764696ad-26a8-42d6-b728-fbbcf8aa1528)
 
+![snake gif](https://github.com/Hampter-0/Hampter-0/blob/output/github-contribution-grid-snake.svg)
+
 <img src="https://skillicons.dev/icons?i=git,vscode,js,html,css,tailwind,php,laravel,angular,typescript,java,nodejs,discord,androidstudio,mysql" />
