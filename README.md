@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hampter;Full+Stack+Developer;Laravel+%7C+Angular+%7C+TypeScript;Building+cool+stuff+every+day" />
+</p>
+
 ![Profile views](https://komarev.com/ghpvc/?username=Hampter-0&color=blue)
 
 ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repositories&query=public_repos&url=https://api.github.com/users/hampter-0)
