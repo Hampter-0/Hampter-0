@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7c3aed&text=Stijn&textY=32&fontSize=58&fontColor=ffffff&desc=Full%20Stack%20Developer&descSize=20&descAlignY=70&descAlign=center" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7c3aed&text=Stijn&desc=Full%20Stack%20Developer&descAlignY=70&fontSize=60&fontColor=ffffff" />
+
+
 ## Featured Projects
 
 <a href="https://github.com/Hampter-0/MC-pocket">
