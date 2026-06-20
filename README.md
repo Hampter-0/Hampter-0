@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=7c3aed&text=Hampter&desc=Laravel%20•%20Angular%20•%20TypeScript&descAlignY=70&fontSize=60&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7c3aed&text=Hampter&desc=Laravel%20•%20Angular%20•%20TypeScript&descAlignY=70&fontSize=60&fontColor=ffffff" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hampter-0&theme=tokyonight)](https://git.io/streak-stats)
 
