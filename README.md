@@ -14,6 +14,6 @@
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=764696ad-26a8-42d6-b728-fbbcf8aa1528)](https://wakatime.com/@764696ad-26a8-42d6-b728-fbbcf8aa1528)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hampter-0&theme=tokyonight)](https://git.io/streak-stats)****
+[![GitHub Streak](https://streak-stats.demolab.com?user=hampter-0&theme=tokyonight)](https://git.io/streak-stats)
 
 <img src="https://skillicons.dev/icons?i=git,vscode,js,html,css,tailwind,php,laravel,angular,typescript,java,nodejs,discord,androidstudio,mysql" />
