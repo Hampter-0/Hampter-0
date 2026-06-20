@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7c3aed&text=Stijn&textY=45&desc=Full%20Stack%20Developer&descAlignY=60&fontSize=60&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7c3aed&text=Stijn&textY=25&desc=Full%20Stack%20Developer&descAlignY=60&fontSize=60&fontColor=ffffff" />
 
 ## Featured Projects
 
