@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=7c3aed&text=Hampter&fontSize=60&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=7c3aed&text=Hampter&fontSize=60&fontColor=ffffff" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hampter-0&theme=tokyonight)](https://git.io/streak-stats)
 
