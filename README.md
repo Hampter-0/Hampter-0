@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1200&color=7c3aed&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hampter;Full+Stack+Developer;Laravel+%7C+Angular+%7C+TypeScript;" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=7c3aed&text=Hampter&fontSize=60&fontColor=ffffff" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hampter-0&theme=tokyonight)](https://git.io/streak-stats)
 
