@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7c3aed&text=Hampter&desc=Laravel%20•%20Angular%20•%20TypeScript&descAlignY=70&fontSize=60&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7c3aed&text=Hampter&desc=Full%20Stack%20Developer&descAlignY=70&fontSize=60&fontColor=ffffff" />
+
 
 ## Featured Projects
 
@@ -9,6 +10,8 @@
 <a href="https://github.com/Hampter-0/Minecraft-paper-discord-bridge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hampter-0&repo=Minecraft-paper-discord-bridge&theme=tokyonight" />
 </a>
+
+<br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hampter-0&theme=tokyonight)](https://git.io/streak-stats)
 
