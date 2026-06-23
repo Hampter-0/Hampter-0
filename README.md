@@ -34,3 +34,8 @@
 <img src="https://skillicons.dev/icons?i=git,vscode,js,html,css,tailwind,php,laravel,angular,typescript,java,nodejs,discord,androidstudio,mysql" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hampter-0&layout=compact&theme=tokyonight)
+## Socials
+
+[![Website](https://img.shields.io/badge/Website-hampternom.nl-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.hampternom.nl)
+[![Gmail](https://img.shields.io/badge/Gmail-support@hampternom.nl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@hampternom.nl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stijn_Dijkhuis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stijn-dijkhuis-80b0273b7/)
