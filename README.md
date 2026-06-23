@@ -13,6 +13,8 @@
 
 <br><br>
 
+## Github stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=hampter-0&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Hampter-0&color=blue)
