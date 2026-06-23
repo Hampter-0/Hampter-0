@@ -26,3 +26,5 @@
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=764696ad-26a8-42d6-b728-fbbcf8aa1528)](https://wakatime.com/@764696ad-26a8-42d6-b728-fbbcf8aa1528)
 
 <img src="https://skillicons.dev/icons?i=git,vscode,js,html,css,tailwind,php,laravel,angular,typescript,java,nodejs,discord,androidstudio,mysql" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react)
