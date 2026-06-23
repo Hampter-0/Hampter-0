@@ -27,4 +27,4 @@
 
 <img src="https://skillicons.dev/icons?i=git,vscode,js,html,css,tailwind,php,laravel,angular,typescript,java,nodejs,discord,androidstudio,mysql" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hampter-0&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hampter-0&layout=compact&theme=tokyonight)
