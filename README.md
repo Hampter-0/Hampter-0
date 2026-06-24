@@ -31,8 +31,9 @@
 
 ## Top used languages
 
-<img src="https://skillicons.dev/icons?i=git,vscode,js,html,css,tailwind,php,laravel,angular,typescript,java,nodejs,discord,androidstudio,mysql" />
-## 🚀 Tech Stack
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hampter-0&layout=compact&theme=tokyonight)
+
+## Tech Stack
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -68,7 +69,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hampter-0&layout=compact&theme=tokyonight)
+
 ## Socials
 
 [![Website](https://img.shields.io/badge/Website-hampternom.nl-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.hampternom.nl)
