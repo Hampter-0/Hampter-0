@@ -69,7 +69,7 @@
 <h3>GitHub Stats</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hampter-0&show_icons=true&theme=tokyonight&hide_border=true" alt="Stijn's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hampter-0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p>
