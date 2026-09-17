@@ -5,10 +5,10 @@
 </h1>
 
 <p>
-  I'm <b>Stijn</b>, a <b>Full Stack Developer</b> from the Netherlands 🇳🇱.
+  I'm <b>Stijn</b>, a <b>Full Stack Developer</b> from the Netherlands .
 </p>
 
-<h3> Things I work with< /h3>
+<h3> Things I work with </h3>
 
 </br>
 
