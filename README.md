@@ -53,6 +53,7 @@
 ###  Currently Learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-3DDC84?style=for-the-badge&logo=nuxt&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-E34F26?style=for-the-badge&logo=rust&logoColor=white)
 
 
 ## Socials
