@@ -1,16 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7c3aed&text=Stijn&desc=Full%20Stack%20Developer&descAlignY=70&fontSize=60&fontColor=ffffff" />
 
-
-## Featured Projects
-
-<a href="https://github.com/Hampter-0/MC-pocket">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hampter-0&repo=MC-pocket&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Hampter-0/Minecraft-paper-discord-bridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hampter-0&repo=Minecraft-paper-discord-bridge&theme=tokyonight" />
-</a>
-
 <br><br>
 
 ## Github stats
@@ -29,10 +18,6 @@
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=764696ad-26a8-42d6-b728-fbbcf8aa1528)](https://wakatime.com/@764696ad-26a8-42d6-b728-fbbcf8aa1528)
 
-## Top used languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hampter-0&layout=compact&theme=tokyonight)
-
 ## Tech Stack
 
 ### Languages
@@ -49,8 +34,6 @@
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
 ### Game Development & Design
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -63,12 +46,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-###  Currently Learning
+###  Currently Working With
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+###  Currently Learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-3178C6?style=for-the-badge&logo=nuxt&logoColor=white)
+
 
 ## Socials
 
