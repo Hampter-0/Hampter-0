@@ -1,63 +1,107 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7c3aed&text=Stijn&desc=Full%20Stack%20Developer&descAlignY=70&fontSize=60&fontColor=ffffff" />
+------------
 
-## Github stats
+<h1>
+  Hey! Nice to see you.
+</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hampter-0&theme=tokyonight)](https://git.io/streak-stats)
+<p>
+  I'm <b>Stijn</b>, a <b>Full Stack Developer</b> from the Netherlands 🇳🇱.
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Hampter-0&color=blue)
+<h3> Things I work with/h3>
 
-![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repositories&query=public_repos&url=https://api.github.com/users/hampter-0)
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
-![Followers](https://img.shields.io/github/followers/hampter-0?style=flat)
+<h3>Frameworks & Libraries</h3>
 
-## Wakatime stats
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img alt="Discord.js" src="https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
 
-[![wakatime](https://wakatime.com/badge/user/764696ad-26a8-42d6-b728-fbbcf8aa1528.svg)](https://wakatime.com/@764696ad-26a8-42d6-b728-fbbcf8aa1528)
+<h3> Game Development & Design</h3>
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=764696ad-26a8-42d6-b728-fbbcf8aa1528)](https://wakatime.com/@764696ad-26a8-42d6-b728-fbbcf8aa1528)
+<p>
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img alt="Aseprite" src="https://img.shields.io/badge/-Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
 
-## Tech Stack
+<h3>Tools & Databases</h3>
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+</p>
 
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<h3>Currently working with</h3>
 
-### Game Development & Design
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<h3>Currently learning</h3>
 
-###  Currently Working With
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
-###  Currently Learning
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-3DDC84?style=for-the-badge&logo=nuxt&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-E34F26?style=for-the-badge&logo=rust&logoColor=white)
-![Postgresql](https://img.shields.io/badge/Postgresql-3178C6?style=for-the-badge&logo=postgresql&logoColor=white)
+<h3>GitHub Stats</h3>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hampter-0&show_icons=true&theme=tokyonight&hide_border=true" alt="Stijn's GitHub Stats"/>
+</p>
 
-## Socials
+<p>
+  <img src="https://streak-stats.demolab.com?user=hampter-0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-hampternom.nl-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.hampternom.nl)
-[![Gmail](https://img.shields.io/badge/Gmail-support@hampternom.nl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@hampternom.nl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stijn_Dijkhuis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stijn-dijkhuis-80b0273b7/)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Hampter-0&color=7c3aed&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/hampter-0?style=flat-square&color=7c3aed" alt="GitHub followers"/>
+</p>
+
+<h3> What I like building</h3>
+
+<ul>
+  <li> Full Stack Web Applications</li>
+  <li> Backend APIs & Services</li>
+  <li> Discord Bots & Integrations</li>
+  <li> Games & Interactive Projects</li>
+  <li> Database-driven Applications</li>
+</ul>
+
+<h3> Where to find me</h3>
+
+<p>
+  <a href="https://github.com/Hampter-0" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://portfolio.hampternom.nl" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-7c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/stijn-dijkhuis-80b0273b7/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+------------
+
