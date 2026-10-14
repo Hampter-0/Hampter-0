@@ -58,14 +58,18 @@
 
 ### Currently Working With
 
+### Currently Working With
+
 <p>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img alt="Tokio" src="https://img.shields.io/badge/-Tokio-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img alt="SQLx" src="https://img.shields.io/badge/-SQLx-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img alt="Axum" src="https://img.shields.io/badge/-Axum-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 <h3>GitHub Stats</h3>
