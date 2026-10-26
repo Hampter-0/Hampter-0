@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-  I'm <b>Stijn</b>, a <b>Full Stack Developer</b> from the Netherlands .
+  I'm <b>Stijn</b>, a <b>Full Stack Developer</b> from the Netherlands 🇳🇱.
 </p>
 
 ### Things I Work With
