@@ -36,7 +36,6 @@
   <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"/>
   <img alt="VitePress" src="https://img.shields.io/badge/-VitePress-5C73E7?style=flat-square"/>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img alt="Statamic" src="https://img.shields.io/badge/-Statamic-FF269E?style=flat-square&logo=statamic&logoColor=white"/>
 </p>
 
 ### Game Development & Design
