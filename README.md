@@ -12,7 +12,6 @@
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -34,7 +33,10 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"/>
+  <img alt="VitePress" src="https://img.shields.io/badge/-VitePress-5C73E7?style=flat-square"/>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img alt="Statamic" src="https://img.shields.io/badge/-Statamic-FF269E?style=flat-square&logo=statamic&logoColor=white"/>
 </p>
 
 ### Game Development & Design
@@ -45,7 +47,14 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
-### Database & Tools
+### Digital Strategy & Optimization
+
+<p>
+  <img alt="SEO" src="https://img.shields.io/badge/-SEO-4285F4?style=flat-square"/>
+  <img alt="Unlighthouse" src="https://img.shields.io/badge/-Unlighthouse-7C3AED?style=flat-square"/>
+</p>
+
+### Databases & Tools
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -54,8 +63,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-  <img alt="Zed" src="https://img.shields.io/badge/-Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white"/>
 </p>
 
 <h3>GitHub Stats</h3>
