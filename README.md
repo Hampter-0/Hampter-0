@@ -81,7 +81,7 @@
 
 <h3>Most used languages</h3>
 
-<p align="center">
+<p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hampter-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Most Used Languages"
@@ -90,7 +90,7 @@
 
 <h3> Tech </h3>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=cs,js,ts,php,rust,html,css,nodejs,express,laravel,tailwind,react,astro,nextjs,unity,figma,mysql,postgres,git,linux,docker,androidstudio&perline=7&theme=dark" />
 </p>
 
