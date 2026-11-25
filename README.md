@@ -79,6 +79,21 @@
   <img src="https://img.shields.io/github/followers/hampter-0?style=flat-square&color=7c3aed" alt="GitHub followers"/>
 </p>
 
+<h3>Most used languages</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hampter-0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+  />
+</p>
+
+<h3> Tech </h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,php,rust,html,css,nodejs,express,laravel,tailwind,react,astro,nextjs,unity,figma,mysql,postgres,git,linux,docker,androidstudio&perline=7&theme=dark" />
+</p>
+
 <h3> What I like building</h3>
 
 <ul>
