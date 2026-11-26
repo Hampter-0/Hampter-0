@@ -79,6 +79,8 @@
   <img src="https://img.shields.io/github/followers/hampter-0?style=flat-square&color=7c3aed" alt="GitHub followers"/>
 </p>
 
+[![WakaTime](https://shields.io)](https://wakatime.com/@hampter)
+
 <h3>Most used languages</h3>
 
 <p>
