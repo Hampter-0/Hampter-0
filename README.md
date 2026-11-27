@@ -93,7 +93,7 @@
 <h3> Tech </h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,js,,sql,ts,php,rust,html,css,nodejs,express,laravel,tailwind,react,astro,nextjs,unity,figma,mysql,postgres,git,linux,docker,androidstudio&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,js,sql,ts,php,rust,html,css,nodejs,express,laravel,tailwind,react,astro,nextjs,unity,figma,mysql,postgres,git,linux,docker,androidstudio&perline=7&theme=dark" />
 </p>
 
 <h3> What I like building</h3>
